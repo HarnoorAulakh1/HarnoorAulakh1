@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Social media website<br>🌱 I’m currently learning NextJs<br>💬 Ask me about ReactJs , ExpressJs , MongoDB
+🔭 I’m currently working on npm packages<br>🌱 I’m currently learning NextJs<br>💬 Ask me about ReactJs , ExpressJs , MongoDB
 
 
 ## 🌐 Socials:
